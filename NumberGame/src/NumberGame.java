@@ -30,6 +30,5 @@ public class NumberGame {
                 System.out.println("The number was : " + randomNumber);
             }
         }
-
     }
 

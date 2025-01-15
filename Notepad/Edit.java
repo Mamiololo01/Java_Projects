@@ -1,5 +1,3 @@
-
-
 public class Edit {
 
     public static void cut(){
